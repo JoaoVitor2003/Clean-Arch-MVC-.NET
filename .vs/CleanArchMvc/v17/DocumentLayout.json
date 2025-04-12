@@ -3,6 +3,26 @@
   "WorkspaceRootPath": "C:\\Users\\joaov\\source\\repos\\CleanArchMvcC#\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A036F5CA-88B8-40C1-AC56-D5D6059A66BC}|CleanArchMvc.Domain\\CleanArchMvc.Domain.csproj|c:\\users\\joaov\\source\\repos\\cleanarchmvcc#\\cleanarchmvc.domain\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A036F5CA-88B8-40C1-AC56-D5D6059A66BC}|CleanArchMvc.Domain\\CleanArchMvc.Domain.csproj|solutionrelative:cleanarchmvc.domain\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A036F5CA-88B8-40C1-AC56-D5D6059A66BC}|CleanArchMvc.Domain\\CleanArchMvc.Domain.csproj|c:\\users\\joaov\\source\\repos\\cleanarchmvcc#\\cleanarchmvc.domain\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A036F5CA-88B8-40C1-AC56-D5D6059A66BC}|CleanArchMvc.Domain\\CleanArchMvc.Domain.csproj|solutionrelative:cleanarchmvc.domain\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A036F5CA-88B8-40C1-AC56-D5D6059A66BC}|CleanArchMvc.Domain\\CleanArchMvc.Domain.csproj|c:\\users\\joaov\\source\\repos\\cleanarchmvcc#\\cleanarchmvc.domain\\validation\\domainexceptionvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A036F5CA-88B8-40C1-AC56-D5D6059A66BC}|CleanArchMvc.Domain\\CleanArchMvc.Domain.csproj|solutionrelative:cleanarchmvc.domain\\validation\\domainexceptionvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A036F5CA-88B8-40C1-AC56-D5D6059A66BC}|CleanArchMvc.Domain\\CleanArchMvc.Domain.csproj|c:\\users\\joaov\\source\\repos\\cleanarchmvcc#\\cleanarchmvc.domain\\interfaces\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A036F5CA-88B8-40C1-AC56-D5D6059A66BC}|CleanArchMvc.Domain\\CleanArchMvc.Domain.csproj|solutionrelative:cleanarchmvc.domain\\interfaces\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A036F5CA-88B8-40C1-AC56-D5D6059A66BC}|CleanArchMvc.Domain\\CleanArchMvc.Domain.csproj|c:\\users\\joaov\\source\\repos\\cleanarchmvcc#\\cleanarchmvc.domain\\interfaces\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A036F5CA-88B8-40C1-AC56-D5D6059A66BC}|CleanArchMvc.Domain\\CleanArchMvc.Domain.csproj|solutionrelative:cleanarchmvc.domain\\interfaces\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A036F5CA-88B8-40C1-AC56-D5D6059A66BC}|CleanArchMvc.Domain\\CleanArchMvc.Domain.csproj|c:\\users\\joaov\\source\\repos\\cleanarchmvcc#\\cleanarchmvc.domain\\cleanarchmvc.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{A036F5CA-88B8-40C1-AC56-D5D6059A66BC}|CleanArchMvc.Domain\\CleanArchMvc.Domain.csproj|solutionrelative:cleanarchmvc.domain\\cleanarchmvc.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
@@ -14,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -22,8 +42,73 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DomainExceptionValidation.cs",
+              "DocumentMoniker": "C:\\Users\\joaov\\source\\repos\\CleanArchMvcC#\\CleanArchMvc.Domain\\Validation\\DomainExceptionValidation.cs",
+              "RelativeDocumentMoniker": "CleanArchMvc.Domain\\Validation\\DomainExceptionValidation.cs",
+              "ToolTip": "C:\\Users\\joaov\\source\\repos\\CleanArchMvcC#\\CleanArchMvc.Domain\\Validation\\DomainExceptionValidation.cs",
+              "RelativeToolTip": "CleanArchMvc.Domain\\Validation\\DomainExceptionValidation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T02:14:06.926Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ICategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\joaov\\source\\repos\\CleanArchMvcC#\\CleanArchMvc.Domain\\Interfaces\\ICategoryRepository.cs",
+              "RelativeDocumentMoniker": "CleanArchMvc.Domain\\Interfaces\\ICategoryRepository.cs",
+              "ToolTip": "C:\\Users\\joaov\\source\\repos\\CleanArchMvcC#\\CleanArchMvc.Domain\\Interfaces\\ICategoryRepository.cs",
+              "RelativeToolTip": "CleanArchMvc.Domain\\Interfaces\\ICategoryRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T02:13:39.699Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\joaov\\source\\repos\\CleanArchMvcC#\\CleanArchMvc.Domain\\Interfaces\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "CleanArchMvc.Domain\\Interfaces\\IProductRepository.cs",
+              "ToolTip": "C:\\Users\\joaov\\source\\repos\\CleanArchMvcC#\\CleanArchMvc.Domain\\Interfaces\\IProductRepository.cs",
+              "RelativeToolTip": "CleanArchMvc.Domain\\Interfaces\\IProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T02:13:27.686Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\joaov\\source\\repos\\CleanArchMvcC#\\CleanArchMvc.Domain\\Entities\\Category.cs",
+              "RelativeDocumentMoniker": "CleanArchMvc.Domain\\Entities\\Category.cs",
+              "ToolTip": "C:\\Users\\joaov\\source\\repos\\CleanArchMvcC#\\CleanArchMvc.Domain\\Entities\\Category.cs",
+              "RelativeToolTip": "CleanArchMvc.Domain\\Entities\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T02:13:00.24Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "CleanArchMvc.Domain",
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\joaov\\source\\repos\\CleanArchMvcC#\\CleanArchMvc.Domain\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "CleanArchMvc.Domain\\Entities\\Product.cs",
+              "ToolTip": "C:\\Users\\joaov\\source\\repos\\CleanArchMvcC#\\CleanArchMvc.Domain\\Entities\\Product.cs",
+              "RelativeToolTip": "CleanArchMvc.Domain\\Entities\\Product.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAowBEAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T02:12:50.343Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CleanArchMvc.Domain.csproj",
               "DocumentMoniker": "C:\\Users\\joaov\\source\\repos\\CleanArchMvcC#\\CleanArchMvc.Domain\\CleanArchMvc.Domain.csproj",
               "RelativeDocumentMoniker": "CleanArchMvc.Domain\\CleanArchMvc.Domain.csproj",
               "ToolTip": "C:\\Users\\joaov\\source\\repos\\CleanArchMvcC#\\CleanArchMvc.Domain\\CleanArchMvc.Domain.csproj",

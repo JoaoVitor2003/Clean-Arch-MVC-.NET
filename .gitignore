@@ -1,0 +1,30 @@
+# Ignore Visual Studio files
+.vs/
+*.user
+*.suo
+*.cache
+*.log
+
+# Build results
+bin/
+obj/
+
+# Ignore Rider files
+.idea/
+
+# Ignore OS files
+Thumbs.db
+.DS_Store
+
+# Ignore NuGet packages
+*.nupkg
+packages/
+
+# Ignore sensitive files
+*.config.user
+
+# Ignore logs
+*.log
+
+# Ignore publish output
+publish/
