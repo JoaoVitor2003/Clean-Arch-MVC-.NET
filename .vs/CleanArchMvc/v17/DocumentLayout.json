@@ -50,8 +50,7 @@
               "RelativeToolTip": "CleanArchMvc.Domain\\Validation\\DomainExceptionValidation.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-12T02:14:06.926Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-12T02:14:06.926Z"
             },
             {
               "$type": "Document",
@@ -63,8 +62,7 @@
               "RelativeToolTip": "CleanArchMvc.Domain\\Interfaces\\ICategoryRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-12T02:13:39.699Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-12T02:13:39.699Z"
             },
             {
               "$type": "Document",
@@ -76,8 +74,7 @@
               "RelativeToolTip": "CleanArchMvc.Domain\\Interfaces\\IProductRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-12T02:13:27.686Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-12T02:13:27.686Z"
             },
             {
               "$type": "Document",
@@ -89,8 +86,7 @@
               "RelativeToolTip": "CleanArchMvc.Domain\\Entities\\Category.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-12T02:13:00.24Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-12T02:13:00.24Z"
             },
             {
               "$type": "Document",
@@ -100,7 +96,7 @@
               "RelativeDocumentMoniker": "CleanArchMvc.Domain\\Entities\\Product.cs",
               "ToolTip": "C:\\Users\\joaov\\source\\repos\\CleanArchMvcC#\\CleanArchMvc.Domain\\Entities\\Product.cs",
               "RelativeToolTip": "CleanArchMvc.Domain\\Entities\\Product.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAowBEAAAAuAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAA5wBEAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-12T02:12:50.343Z",
               "EditorCaption": ""
@@ -115,8 +111,7 @@
               "RelativeToolTip": "CleanArchMvc.Domain\\CleanArchMvc.Domain.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-04-09T20:04:16.932Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-09T20:04:16.932Z"
             }
           ]
         }
