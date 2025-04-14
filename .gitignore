@@ -4,6 +4,9 @@
 *.suo
 *.cache
 *.log
+DocumentLayout.json
+**/CopilotIndices/
+*.db
 
 # Build results
 bin/

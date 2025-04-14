@@ -48,9 +48,10 @@
               "RelativeDocumentMoniker": "CleanArchMvc.Domain\\Validation\\DomainExceptionValidation.cs",
               "ToolTip": "C:\\Users\\joaov\\source\\repos\\CleanArchMvcC#\\CleanArchMvc.Domain\\Validation\\DomainExceptionValidation.cs",
               "RelativeToolTip": "CleanArchMvc.Domain\\Validation\\DomainExceptionValidation.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-12T02:14:06.926Z"
+              "WhenOpened": "2025-04-12T02:14:06.926Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -84,9 +85,10 @@
               "RelativeDocumentMoniker": "CleanArchMvc.Domain\\Entities\\Category.cs",
               "ToolTip": "C:\\Users\\joaov\\source\\repos\\CleanArchMvcC#\\CleanArchMvc.Domain\\Entities\\Category.cs",
               "RelativeToolTip": "CleanArchMvc.Domain\\Entities\\Category.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAoAAAAAAAAAA==",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAcwBYAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-12T02:13:00.24Z"
+              "WhenOpened": "2025-04-12T02:13:00.24Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -96,7 +98,7 @@
               "RelativeDocumentMoniker": "CleanArchMvc.Domain\\Entities\\Product.cs",
               "ToolTip": "C:\\Users\\joaov\\source\\repos\\CleanArchMvcC#\\CleanArchMvc.Domain\\Entities\\Product.cs",
               "RelativeToolTip": "CleanArchMvc.Domain\\Entities\\Product.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAA5wBEAAAAuAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-12T02:12:50.343Z",
               "EditorCaption": ""
