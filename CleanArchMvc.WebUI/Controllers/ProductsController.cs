@@ -26,7 +26,7 @@ namespace CleanArchMvc.WebUI.Controllers
         [HttpGet]
         public async Task<IActionResult> Create()
         {
-            ViewBag.CategoryId = 
+            ViewBag.CategoryId =
                 new SelectList(await _categoryService.GetCategories(), "Id", "Name");
             return View();
         }
@@ -39,12 +39,12 @@ namespace CleanArchMvc.WebUI.Controllers
                 await _productService.Add(product);
                 return RedirectToAction(nameof(Index));
             }
-            else 
+            else
             {
                 ViewBag.CategoryId =
                                 new SelectList(await _categoryService.GetCategories(), "Id", "Name");
             }
-                return View(product);
+            return View(product);
         }
 
         [HttpGet]
@@ -76,6 +76,30 @@ namespace CleanArchMvc.WebUI.Controllers
             ViewBag.CategoryId =
                 new SelectList(await _categoryService.GetCategories(), "Id", "Name");
             return View(product);
+        }
+
+        [HttpGet]
+        public async Task<IActionResult> Delete(int? id)
+        {
+            if (id == null) return NotFound();
+            var product = await _productService.GetById(id);
+            if (product == null) return NotFound();
+            return View(product);
+        }
+
+        [HttpPost, ActionName("Delete")]
+        public async Task<IActionResult> DeleteConfirmed(int? id)
+        {
+            if (id == null) return NotFound();
+            try
+            {
+                await _productService.Remove(id);
+            }
+            catch (Exception)
+            {
+                throw;
+            }
+            return RedirectToAction(nameof(Index));
         }
     }
 }
