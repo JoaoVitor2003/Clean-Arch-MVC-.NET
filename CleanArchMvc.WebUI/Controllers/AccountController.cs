@@ -68,4 +68,5 @@ namespace CleanArchMvc.WebUI.Controllers
             await _authentication.Logout();
             return RedirectToAction("/Account/Login");
         }
+    }
 }
