@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.13.35913.81 d17.13
+VisualStudioVersion = 17.13.35913.81
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CleanArchMvc.Application", "CleanArchMvc.Application\CleanArchMvc.Application.csproj", "{632314BE-8A4D-435D-9FF3-15CF4904C41A}"
 EndProject
@@ -14,6 +14,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CleanArchMvc.WebUI", "CleanArchMvc.WebUI\CleanArchMvc.WebUI.csproj", "{AE1705C1-093D-4053-AA8E-F7D9D4A0626B}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CleanArchMvc.Domain.Tests", "CleanArchMvc.Domain.Tests\CleanArchMvc.Domain.Tests.csproj", "{33C5BD01-B410-4250-9EE1-38CB0BF8BA1D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CleanArchMvc.API", "CleanArchMvc.API\CleanArchMvc.API.csproj", "{696AC633-E6AC-485D-A938-D30E5B9B2DDA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -97,6 +99,18 @@ Global
 		{33C5BD01-B410-4250-9EE1-38CB0BF8BA1D}.Release|x64.Build.0 = Release|Any CPU
 		{33C5BD01-B410-4250-9EE1-38CB0BF8BA1D}.Release|x86.ActiveCfg = Release|Any CPU
 		{33C5BD01-B410-4250-9EE1-38CB0BF8BA1D}.Release|x86.Build.0 = Release|Any CPU
+		{696AC633-E6AC-485D-A938-D30E5B9B2DDA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{696AC633-E6AC-485D-A938-D30E5B9B2DDA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{696AC633-E6AC-485D-A938-D30E5B9B2DDA}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{696AC633-E6AC-485D-A938-D30E5B9B2DDA}.Debug|x64.Build.0 = Debug|Any CPU
+		{696AC633-E6AC-485D-A938-D30E5B9B2DDA}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{696AC633-E6AC-485D-A938-D30E5B9B2DDA}.Debug|x86.Build.0 = Debug|Any CPU
+		{696AC633-E6AC-485D-A938-D30E5B9B2DDA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{696AC633-E6AC-485D-A938-D30E5B9B2DDA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{696AC633-E6AC-485D-A938-D30E5B9B2DDA}.Release|x64.ActiveCfg = Release|Any CPU
+		{696AC633-E6AC-485D-A938-D30E5B9B2DDA}.Release|x64.Build.0 = Release|Any CPU
+		{696AC633-E6AC-485D-A938-D30E5B9B2DDA}.Release|x86.ActiveCfg = Release|Any CPU
+		{696AC633-E6AC-485D-A938-D30E5B9B2DDA}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
