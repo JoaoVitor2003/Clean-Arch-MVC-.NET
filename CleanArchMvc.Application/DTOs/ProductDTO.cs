@@ -6,6 +6,7 @@ using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
 using System.Linq;
 using System.Text;
+using System.Text.Json.Serialization;
 using System.Threading.Tasks;
 
 namespace CleanArchMvc.Application.DTOs
@@ -41,6 +42,7 @@ namespace CleanArchMvc.Application.DTOs
         [MaxLength(250)]
         [DisplayName("Image")]
         public string ImageUrl { get; set; }
+        [JsonIgnore]
         public Category Category { get; set; }
 
         [DisplayName("Category")]
